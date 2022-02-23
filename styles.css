@@ -1,0 +1,7 @@
+body{background-color: #7DAA8E;}
+h1{font-family: Futura Condensed ExtraBold;font-size: 40px;color: #DABF64;padding: 0px;border-style: groove;border-width:5px; border-color:#3A6249;}
+p{font-family: Helvetica ;font-size: 20px;color: #DABF64;}
+a{font-family: arial;font-size: 15px;color: #DABF64;text-decoration: none;}
+a:hover{color: black;}
+ol{list-style-type: none;}
+img{border-style: solid;border-width: 5px;border-color: #3A6249;padding: 2px;}
